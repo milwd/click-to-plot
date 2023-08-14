@@ -2,5 +2,10 @@
 Clicking on image and generating scatter plots
 
 
-It isn't scalable enough, yet works.
+Code for generating quick dataset samples.
+
+It isn't scalable enough, yet it works.
+
 Requirements are Opencv, Numpy, and Matplotlib.
+
+![Screenshot](screenshot.png)
