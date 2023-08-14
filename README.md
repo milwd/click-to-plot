@@ -8,4 +8,4 @@ It isn't scalable enough, yet it works.
 
 Requirements are Opencv, Numpy, and Matplotlib.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
